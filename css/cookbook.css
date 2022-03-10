@@ -2,8 +2,7 @@ urlset {
   background-color: black;
 }
 sandwich, bread_top, bread_bottom, ingredient {
-  background-color: rgb(0, 0, 0);
-  font-family: "Helvetica", sans-serif;
+    font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 255, 255);
   line-height: 1.5;
@@ -14,7 +13,6 @@ sandwich, bread_top, bread_bottom, ingredient {
   display: table;
 }
 condiment {
-  background-color: rgb(0, 0, 0);
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 255, 0);
@@ -26,7 +24,6 @@ condiment {
   display: table;
 }
 vegetable {
-  background-color: rgb(0, 0, 0);
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(0, 255, 0);
@@ -38,7 +35,6 @@ vegetable {
   display: table;
 }
 seasoning {
-  background-color: rgb(0, 0, 0);
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(99, 99, 99);
@@ -50,7 +46,6 @@ seasoning {
   display: table;
 }
 cheese {
-  background-color: rgb(0, 0, 0);
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 128, 0);
@@ -62,7 +57,6 @@ cheese {
   display: table;
 }
 meat {
-  background-color: rgb(0, 0, 0);
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 0, 0);
