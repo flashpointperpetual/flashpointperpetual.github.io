@@ -3,20 +3,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="css/cookbook.css"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sandwich>
-		<ingredient>White Sub Roll top</ingredient>
-		<ingredient>Mayo</ingredient>
-		<ingredient>Iceberg Lettuce</ingredient>
-        <ingredient>Beefsteak Tomato</ingredient>
-        <ingredient>White Onion slices</ingredient>
-        <ingredient>Extra Virgin Olive Oil</ingredient>
-        <ingredient>Black Pepper</ingredient>
-        <ingredient>Provolone</ingredient>
-        <ingredient>Genoa Salami</ingredient>
-        <ingredient>Capicola Ham</ingredient>
-        <ingredient>Mortadella</ingredient>
-        <ingredient>Mayo</ingredient>
-        <ingredient>Grey Poupon Dijon</ingredient>
-        <ingredient>White Sub Roll bottom</ingredient>
-	</sandwich>
+    <sandwich>
+        <bread_top>White Sub Roll top</bread_top>
+          <ingredient>
+            <condiment>Mayo</condiment>
+            <vegetable>Iceberg Lettuce</vegetable>
+            <vegetable>Beefsteak Tomato</vegetable>
+            <vegetable>White Onion slices</vegetable>
+            <condiment>Extra Virgin Olive Oil</condiment>
+            <seasoning>Black Pepper</seasoning>
+            <cheese>Provolone</cheese>
+            <meat>Genoa Salami</meat>
+            <meat>Capicola Ham</meat>
+            <meat>Mortadella</meat>
+            <condiment>Mayo</condiment>
+            <condiment>Grey Poupon Dijon</condiment>
+          </ingredient>
+        <bread_bottom>White Sub Roll bottom</bread_bottom>
+    </sandwich>
 </urlset>
