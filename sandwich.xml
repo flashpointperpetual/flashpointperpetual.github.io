@@ -1,7 +1,6 @@
-<!--sandwich-->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="css/cookbook.css"?>
+<!--sandwich-->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sandwich>
         <bread_top>White Sub Roll top</bread_top>
