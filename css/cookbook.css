@@ -4,6 +4,7 @@ urlset {
 sandwich, ingredient, name {
     font-family: "Helvetica", sans-serif;
   font-size: 24px;
+  font-weight: bold;
   color: rgb(255, 255, 255);
   line-height: 1.5;
   margin: 1rem 0;
