@@ -1,7 +1,7 @@
 urlset {
   background-color: black;
 }
-sandwich, ingredient {
+sandwich, ingredient, name {
     font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 255, 255);
