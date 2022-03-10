@@ -1,7 +1,7 @@
 urlset {
   background-color: black;
 }
-sandwich, bread_top, bread_bottom, ingredient {
+sandwich, ingredient {
     font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 255, 255);
@@ -60,6 +60,17 @@ meat {
   font-family: "Helvetica", sans-serif;
   font-size: 24px;
   color: rgb(255, 0, 0);
+  line-height: 1.5;
+  margin: 1rem 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: table;
+}
+bread_top, bread_bottom {
+  font-family: "Helvetica", sans-serif;
+  font-size: 24px;
+  color: rgb(90, 60, 30);
   line-height: 1.5;
   margin: 1rem 0;
   margin-left: auto;
